@@ -1,4 +1,4 @@
-FROM nodejs:7.4-alpine
+FROM node:7.4-alpine
 
 MAINTAINER Kalle R. Møller <docker@k-moeller.dk>
 
